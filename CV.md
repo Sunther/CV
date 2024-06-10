@@ -129,7 +129,7 @@ _______
 
 ### ***Courses***
 <ul>
-<li>Inteligencia artificial y aprendizaje automático</li>
+<li>Inteligencia artificial y aprendizaje automático (30h)</li>
 <li>Getting started with Docker workshop (3h)</li>
 <li>Cyber-intelligence and cybersecurity (20h)</li>
 <li>Blockchain in the industry 4.0 (8h)</li>
