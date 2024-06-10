@@ -78,7 +78,7 @@ gitGraph TB:
     commit id: "Retail Developer"
 
     checkout Courses
-    commit id: "IA"
+    commit id: "Inteligencia artificial y aprendizaje automático"
 
     checkout Life
     commit id: " "
@@ -129,7 +129,7 @@ _______
 
 ### ***Courses***
 <ul>
-<li>IA (In-Progress)</li>
+<li>Inteligencia artificial y aprendizaje automático</li>
 <li>Getting started with Docker workshop (3h)</li>
 <li>Cyber-intelligence and cybersecurity (20h)</li>
 <li>Blockchain in the industry 4.0 (8h)</li>
