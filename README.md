@@ -13,6 +13,9 @@ I started this project in 2024 in order to prove myself since I was not sure wha
 - ### Calendar To Google:
 This project aims to avoid registering all the holidays of my region on my google calendar account manually. With the help of Google API and a reliable data source. Unfortunalty, I cannot make this repository public since I am using my own accounts and personal data.
 
+- ### QR Generator [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Sunther/QrGenerator):
+This projects enables me to generate my own QR without a third party proxy webpage. It uses the NuGet package QRCoder to generate the bitmaps and then store them on disk or show them using a Maui interface.
+
 ## 📚 Languages
 - Spanish Native
 - Catalan C1 Native
