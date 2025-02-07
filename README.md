@@ -2,7 +2,7 @@
 ## Computer Engineer
 
 ## 🚀 Curriculum information
-Clicking on the following link you will be redirected to the full [CV](https://github.com/Sunther/CV/blob/main/CV.md)
+Clicking on the following link will redirect you to the full [CV](https://github.com/Sunther/CV/blob/main/CV.md)
 
 ## 💻 Current Projects
 During my free I like to entertain myself with virtually anything. Study, play videogames or even build my own projects to keep growing profesionally. These are my most relevant projects so far, both coded in .NET
