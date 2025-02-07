@@ -84,14 +84,14 @@ gitGraph TB:
     commit id: " "
 ```
 
-### ***08/2022 - Today || Retail Developer***
+### ***07/2022 - Today || Retail Developer***
 #### ___Mango (Scalian)___
 - Develop Windows Services solutions in .NET
 - Automate manual repetitive tasks
 - Fiscal printer integrations as well as TEF Ingenico new payment system
 _______
 
-### ***04/2019 - 08/2022 || IT Operations Developer***
+### ***04/2019 - 07/2022 || IT Operations Developer***
 #### ___Vueling Airlines (Aktios)___
 - Develop API solutions in .NET Framework
 - Automate manual processes with Azure
