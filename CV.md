@@ -84,21 +84,21 @@ gitGraph TB:
     commit id: " "
 ```
 
-### ***Today - 08/2022 || Retail Developer***
+### ***08/2022 - Today || Retail Developer***
 #### ___Mango (Scalian)___
 - Develop Windows Services solutions in .NET
 - Automate manual repetitive tasks
 - Fiscal printer integrations as well as TEF Ingenico new payment system
 _______
 
-### ***08/2022 - 04/2019 || IT Operations Developer***
+### ***04/2019 - 08/2022 || IT Operations Developer***
 #### ___Vueling Airlines (Aktios)___
 - Develop API solutions in .NET Framework
 - Automate manual processes with Azure
 DevOps’ pipelines and custom applications
 _______
 
-### ***04/2019 - 09/2017 || Application Management***
+### ***09/2017 - 04/2019 || Application Management***
 #### ___Vueling Airlines (Aktios)___
 - Application management applied to
 different technologies as Siebel or .NET
@@ -109,11 +109,11 @@ Framework
 - Vueling University (200h)
 _______
 
-### ***2017 || Degree in Informatics Engineering***
+### ***09/2012 - 09/2017 || Degree in Informatics Engineering***
 #### ___EPSEVG Universitat Politècnica de Catalunya___
 _______
 
-### ***09/2017 - 01/2015 || Intern Developer***
+### ***01/2015 - 09/2017 || Intern Developer***
 #### ___Telemàtic Solucions Informàtiques S.L.___
 - Develop Window Services solutions in .NET
 Framework to avoid repetitive tasks
@@ -123,7 +123,7 @@ Sage
 functionalities
 _______
 
-### ***2012 || GCE - science branch***
+### ***09/2010 - 06/2012 || GCE - science branch***
 #### ___IES Manuel de Cabanyes___
 _______
 
