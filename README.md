@@ -5,7 +5,7 @@
 Clicking on the following link will redirect you to the full [CV](https://github.com/Sunther/CV/blob/main/CV.md)
 
 ## 💻 Current Projects
-During my free I like to entertain myself with virtually anything. Study, play videogames or even build my own projects to keep growing profesionally. These are my most relevant projects so far, both coded in .NET
+During my free time I like to entertain myself with virtually anything. Study, play videogames or even build my own projects to keep growing profesionally. These are my most relevant projects so far, both coded in .NET
 
 - ### CSharp Knowledge [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Sunther/CSharp_Knowledge):
 I started this project in 2024 in order to prove myself since I was not sure what I was capable of. My intentions were to accumulate knowledge and experience but I ended up with something more. A place where I can accumulate projects with just concepts or ideas about a large variety of information and patterns that I can use afterwards. I really am happy about this Work-In-Progress.
